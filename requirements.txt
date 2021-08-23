@@ -17,7 +17,7 @@ Jinja2==2.10
 jsonschema==3.0.1
 jupyter-client==5.2.4
 jupyter-core==4.4.0
-jupyterlab==0.35.4
+jupyterlab==1.2.21
 jupyterlab-server==0.2.0
 lockfile==0.12.2
 -e git+https://github.com/ericg-luigi-questions/logging_test.git@e347c93c01a201127ba276760ffc0384714fb1fa#egg=logging_test
